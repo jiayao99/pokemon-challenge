@@ -15,7 +15,7 @@ export class PokemonComponent implements OnInit {
 
   ngOnInit(): void {
 
-    const pokemonNames = ['pikachu', 'charmander', 'bulbasaur'];
+    const pokemonNames = ["Bulbasaur", "Squirtle", "Charmander"];
 
 
     pokemonNames.forEach(name => {
